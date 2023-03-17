@@ -110,9 +110,3 @@ These links may help you to better understanding of the project idea and techniq
 2. Sentiment analysis : https://bit.ly/3yi9BGq
 3. Naive Bayes classifier : https://bit.ly/3zhoWIO
 4. Model evaluation : https://bit.ly/3B12VOO
-
-<!-- CONTACT -->
-## <br>**➲ Contact**
-- E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
-- LinkedIn : https://www.linkedin.com/in/omaarelsherif/
-- Facebook : https://www.facebook.com/omaarelshereif
